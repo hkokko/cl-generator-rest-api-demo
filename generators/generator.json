@@ -1,0 +1,14 @@
+{
+  "name": "Your Generator Content",
+  "resultPattern": "{SavageName}",
+  "tables": [
+    {
+      "name": "SavageName",
+      "entries": [
+        "First Name",
+        "Second Name",
+        "Third Name"
+      ]
+    }
+  ]
+}
